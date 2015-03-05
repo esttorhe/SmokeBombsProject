@@ -1,5 +1,5 @@
 # TODO
-+ Buy all the ingredients
++ [ ] Buy all the ingredients
   - [ ] 60 g (3 tablespoons) potassium nitrate (sold as saltpeter in garden supply shops)
   - [ ]	40 g (2 tablespoons) sugar
   - [ ]	1 teaspoon baking soda
