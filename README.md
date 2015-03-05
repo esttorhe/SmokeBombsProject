@@ -3,6 +3,7 @@
 # :bomb: Smoke Bombs Project :bomb:  
 
 Simple project to keep up with a small "art project".
+
 Also a "proof of concept" to use [`GitHub`](https://github.com) as a project management tool.
 
 ## TODO
